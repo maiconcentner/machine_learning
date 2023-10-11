@@ -14,7 +14,7 @@ O objetivo deste repositório é fornecer uma coleção de projetos e tutoriais 
 
 ## Projetos
 
-1. **Estudo de caso: modelo de preços para setor imobiliário (EM ANDAMENTO) [Acesse aqui](https://github.com/maiconcentner/machine_learning/tree/master/am_precos_imobiliarios)**
+1. **Estudo de caso: modelo de preços para setor imobiliário [Acesse aqui](https://github.com/maiconcentner/machine_learning/tree/master/am_precos_imobiliarios)**
 
 ## Como Começar
 
